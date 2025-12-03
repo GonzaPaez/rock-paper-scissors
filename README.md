@@ -4,7 +4,7 @@ This is the boilerplate for the Rock Paper Scissors project. Instructions for bu
 
 The main objective is to create a `player` function capable of playing the classic game "Rock, Paper, Scissors" against four different bots (Quincy, Abbey, Kris, and Mrugesh) and winning at least **60%** of the games against each of them.
 
-## 📋 Strategy Used
+## Strategy Used
 
 To outperform bots, especially **Abbey** (which is capable of learning simple patterns), I implemented an algorithm based on **Markov Chains**.
 
